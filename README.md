@@ -1,3 +1,12 @@
+
+# Main contributer GitHub Repo
+https://github.com/newprice247/F2F-Blog
+
+Project Heroku Deployment:  https://f2f-blog-ad8f414d0b59.herokuapp.com/
+
+#  Register an account with F2F Blogger App to get started!
+
+
 # F2F Blog
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
